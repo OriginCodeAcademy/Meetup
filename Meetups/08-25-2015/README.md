@@ -7,4 +7,4 @@
 **Orientation**, **Basic JavaScript** and **Tic Tac Toe Part 1** - Cameron Wilby
 
 ### Assignments
-**Tic Tac Toe Part 1**
+[**Tic Tac Toe Part 1**](https://github.com/OriginCodeAcademy/Meetup/tree/master/Projects/01-TicTacToe)
