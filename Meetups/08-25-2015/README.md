@@ -2,10 +2,10 @@
 [View on Meetup.com](http://www.meetup.com/Origin-Code-Academy-Meetup/events/224587422/)
 
 ### Presentations
-**Jeff Winkler**
+**Jeff Winkler**<br />
 "Follow up on A/B Experiment"
 
-**Cameron Wilby**
+**Cameron Wilby**<br />
 "Orientation", "Basic JavaScript" and "Tic Tac Toe Part 1"
 
 ### Projects
