@@ -7,8 +7,8 @@ You have been tasked with building the timeless game of Tic Tac Toe. The rules o
 * There are two players (X and O)
 * X always goes first.
 * Players alternate placing their X or O in a slot on the board until one of the following happens:
-	* Win! Either player has successfully managed to get three Xs or Os in a row **diagonally**, **vertically** or **horizontally**.
-	* Draw! All 9 slots on the board have been taken, and neither player has been able to get three Xs or Os in a row.
+	* **Win!** Either player has successfully managed to get three Xs or Os in a row diagonally, vertically or horizontally.
+	* **Draw!** All 9 slots on the board have been taken, and neither player has been able to get three Xs or Os in a row.
 
 ## Scope
 * The board will be 3x3 slots (A total of 9 slots)
