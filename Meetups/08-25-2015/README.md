@@ -14,5 +14,5 @@
 
 <hr />
 
-### HFWs
+### High Frequency Words
 *High Frequency Words*
