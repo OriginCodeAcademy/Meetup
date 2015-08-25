@@ -1,9 +1,15 @@
-# August 11th 2015
-## Those who want to learn how to code, and what to do if need a product built
-[View on Meetup.com](http://www.meetup.com/Origin-Code-Academy-Meetup/events/224235252/)
+## [Those who want to learn how to code, and what to do if need a product built (August 11th 2015)](http://www.meetup.com/Origin-Code-Academy-Meetup/events/224235252/)
 
 ### Presentations
-**Gymsurfing/Incubee/Origin Code Academy** and **A/B Experiment** - Jeff Winkler
+**Jeff Winkler**<br />
+"Gymsurfing/Incubee/Origin Code Academy" and "A/B Experiment"
 
-### Assignments
-* Ongoing - Every week we will check out the progress of our A/B experiment, and tweak/adjust things as we go along.
+<hr />
+
+### Projects
+Ongoing - Every week we will check out the progress of our A/B experiment, and tweak/adjust things as we go along.
+
+<hr />
+
+### High Frequency Words
+(None)
