@@ -1,5 +1,6 @@
-## Learn to code, Tic-Tac-Toe Part 1 of 2, & follow up on A/B Testing experiment (August 25th 2015)
-[View on Meetup.com](http://www.meetup.com/Origin-Code-Academy-Meetup/events/224587422/)
+## [Learn to code, Tic-Tac-Toe Part 1 of 2, & follow up on A/B Testing experiment (August 25th 2015)](http://www.meetup.com/Origin-Code-Academy-Meetup/events/224587422/)
+
+<hr />
 
 ### Presentations
 **Jeff Winkler**<br />
@@ -13,6 +14,7 @@
 ### Projects
 [Tic Tac Toe Part 1](https://github.com/OriginCodeAcademy/Meetup/tree/master/Projects/01-TicTacToe)
 
+<hr />
 
 ### HFWs
 *High Frequency Words*
