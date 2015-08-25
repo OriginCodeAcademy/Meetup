@@ -5,7 +5,7 @@
 **Jeff Winkler**<br />
 "Follow up on A/B Experiment"
 
-**Cameron Wilby**<br />
+**Cameron Wilby** ([@cameronwilby](https://www.twitter.com/cameronwilby))<br />
 "Orientation", "Basic JavaScript" and "Tic Tac Toe Part 1"
 
 ### Projects
