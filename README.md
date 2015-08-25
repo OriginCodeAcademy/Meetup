@@ -10,7 +10,7 @@ At our meetups we'll give out a project that you can complete in your spare time
 ## Meetups
 Every meetup we've done will be summarized in this folder, including any **HFW**s (High Frequency Words) that were identified and notes about the meetup in general.
 
-If you get stuck with a project, you can either **Search**,**Ask** or **Post**. (Preferably in that order!) If you've been to a meetup, then you should have also been invited to our #meetup channel in Slack - feel free to ask your fellow future programmers for help!
+If you get stuck with a project, you can either **Search**,**Ask** or **Post**. (Preferably in that order!) If you've been to a meetup, then you should have also been invited to our #meetup channel in Slack. You'll be able to ask your fellow future programmers for help (They'll all be working on the same project as you!)
 
 Cheers,
 
