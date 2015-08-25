@@ -15,4 +15,4 @@
 <hr />
 
 ### High Frequency Words
-*High Frequency Words*
+(None)
