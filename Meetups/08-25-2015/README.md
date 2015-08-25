@@ -1,7 +1,5 @@
 ## [Learn to code, Tic-Tac-Toe Part 1 of 2, & follow up on A/B Testing experiment (August 25th 2015)](http://www.meetup.com/Origin-Code-Academy-Meetup/events/224587422/)
 
-<hr />
-
 ### Presentations
 **Jeff Winkler**<br />
 "Follow up on A/B Experiment"
