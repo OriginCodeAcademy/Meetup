@@ -1,5 +1,5 @@
 # TicTacToe
-Our first assignment at the meetup will be to build a simple game of Tic Tac Toe using **HTML**, **CSS** and **JavaScript**.
+Our first assignment at the meetup will be to build a simple game of Tic Tac Toe using **HTML**, **CSS** and **Javascript**.
 
 ## Description
 You have been tasked with building the timeless game of Tic Tac Toe. The rules of this turn-based game are simple.
