@@ -12,6 +12,6 @@
 <hr />
 
 ### High Frequency Words
-**Slack**: An online chatroom similar to AIM or IRC - we'll be using this to communicate live with other meetup members.
-**Git**: One of the many *version control systems* available that records changes to a file or set of files over time so that you can recall specific versions later. Other examples include Mercurial, Subversion and CVS.
+**Slack**: An online chatroom similar to AIM or IRC - we'll be using this to communicate live with other meetup members.<br />
+**Git**: One of the many *version control systems* available that records changes to a file or set of files over time so that you can recall specific versions later. Other examples include Mercurial, Subversion and CVS.<br />
 **GitHub**: "*Facebook for programmers*" - A place to store the repositories you create using **Git**.
