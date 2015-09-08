@@ -40,6 +40,7 @@ By the end of this project, you'll have learned:
 
 * How to read documentation to integrate third party libraries into your project
 * How to research an API to make use of it in your app
+* How to grab the users location from the browser
 * How to use results of an API to provide additional functionality to your apps
 * That Chipotle is now yur laif.
 
