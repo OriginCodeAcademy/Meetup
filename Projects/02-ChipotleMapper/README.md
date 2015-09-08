@@ -23,6 +23,7 @@ Everybody loves Chipotle. We're going to build a small web app that shows you wh
 * Research the Chipotle API below
 * You can use the [$.getJSON](http://api.jquery.com/jquery.getjson/) method in jQuery to call our Chipotle API 
 * Find a JSON extension for your browser so you can checkout the raw data returned by the API (Example, [here's one for Chrome](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en))
+* You will need to translate the latitude/longitude co-ordinates provided by the browser into the zip code that the Chipotle API requires. There is a Stack Overflow answer that tells you how to do this.. you may need to **Search** for it!
 
 ## Learning Goals
 By the end of this project, you'll have learned:
