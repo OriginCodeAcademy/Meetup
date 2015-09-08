@@ -3,7 +3,7 @@
 ## Description
 ![Chipotle Muh Life](http://media.giphy.com/media/phGm2TPqh25EY/giphy.gif)
 
-Everybody loves Chipotle. We're going to build a small web app that shows you where your nearest Chipotle is.
+Everybody loves Chipotle. We're going to build a small web app that shows users where their nearest Chipotle is.
 
 ## Scope
 * The app will show the closest Chipotle restaurants based on the users current location.
