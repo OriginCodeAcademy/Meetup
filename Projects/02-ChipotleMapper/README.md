@@ -36,11 +36,15 @@ By the end of this project, you'll have learned:
 Here's a description of our API - You can visit this API in your browser to see the raw data that gets returned.
 
 ### URL
-```http://linux.cwserve.com:24785```
+```
+http://linux.cwserve.com:24785
+```
 
 ### Endpoints
 **Restaurants**
-```/restaurants/<zip_code>```
+```
+/restaurants/<zip_code>
+```
 
 Example Request
 ```
