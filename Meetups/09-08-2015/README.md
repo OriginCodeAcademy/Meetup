@@ -5,14 +5,14 @@
 "Follow up on A/B Experiment"
 
 **Cameron Wilby** ([@cameronwilby](https://www.twitter.com/cameronwilby))<br />
-TBA
+Chipotle Mapper
 
 <hr />
 
 ### Projects
-TBA
+[Chipotle Mapper](https://github.com/origincodeacademy/meetup/projects/02-ChipotleMapper)
 
 <hr />
 
 ### High Frequency Words
-(None)
+TBA
