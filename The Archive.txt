@@ -7,18 +7,19 @@ http://alternativeto.net/ - If a specific app or program isn't doing the trick, 
 
 Practice
 	Code
-CodeWars 
-Exercism
-https://github.com/karan/Projects
-https://github.com/csblogs/feed-downloader
+CodeWars - A site for katas and code riddles for practice.  Demands a small code test to join.
+Exercism - Another site for coding practice, using GitHub to authenicite.  It provides tests, and you must build your program to pass those code tests.
+https://github.com/karan/Projects - A very big list of different code projects, mostly numbers.
+https://github.com/csblogs/feed-downloader - A feed that allows you to develop things.  But more importantly, it encourages best practices for github itself.
+http://sqlzoo.net/ - SQL Exercises, fairly simple.
 
 	Interviewing
-InterviewCake
-gainlo.co
+https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.
+gainlo.co - While the link is being fussy, the site has a blog (blog.gainlo.co) that chats about thoughts involving mock interviews, system design questions, and more.
+https://www.careercup.com/ - Another site for interview code question practice, though in the vein of multiple choice problems.
 
 Diagrams
-https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52
-
+https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52 - A visual version of alternativeto.net, with some hyperlinks.
 
 Posted Articles
 https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017#.ks9l19wef
@@ -42,6 +43,7 @@ http://www.ideaswatch.com/startup-ideas/
 
 San Diego Bias
 http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-san-diego/
+http://www.1millioncups.com/sandiego
 
 What NOT to Do
 http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172222-a-second-for-45-minutes
