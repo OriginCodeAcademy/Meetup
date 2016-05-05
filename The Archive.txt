@@ -12,6 +12,8 @@ Exercism - Another site for coding practice, using GitHub to authenicite.  It pr
 https://github.com/karan/Projects - A very big list of different code projects, mostly numbers.
 https://github.com/csblogs/feed-downloader - A feed that allows you to develop things.  But more importantly, it encourages best practices for github itself.
 http://sqlzoo.net/ - SQL Exercises, fairly simple.
+http://www.teamtreehouse.com/ - Another site like CodeAcademy, with dozens of tracks to practice on.  Be warned, it only allows for seven days free access, then you have to pay monthly.
+http://www.pluralsight.com/ - A variety of videos and courses are on this site, but again, some you'll have to pay for.
 
 	Interviewing
 https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.
@@ -34,6 +36,11 @@ http://thejackalofjavascript.com/nodejs-restify-mongolab-build-rest-api/
 Application Advice
 http://www.businessinsider.com/biggest-interview-mistakes-2016-4
 http://www.businessinsider.com/bj-fogg-unconventional-way-to-get-dream-job-2016-3
+
+Reading Material
+(If you need
+http://www.robmiles.com/c-yellow-book/ - The C# yellow book.
+Javascript: the Good Parts
 
 Videos
 https://www.youtube.com/watch?v=QETUuZ27N0w (Angularjs Tutorial for beginners)
