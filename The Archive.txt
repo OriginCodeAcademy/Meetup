@@ -23,11 +23,17 @@ https://www.careercup.com/ - Another site for interview code question practice, 
 Diagrams
 https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52 - A visual version of alternativeto.net, with some hyperlinks.
 
+Accessibility and Disability
+https://www.w3.org/TR/wai-aria-primer/  Exactly what it says, a primer on ARIA, which helps screen-readers.
+http://www.washington.edu/doit/world-wide-access-accessible-web-design
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+
 Posted Articles
 https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017#.ks9l19wef
 http://blog.triplebyte.com/how-to-pass-a-programming-interview
 https://www.themuse.com/advice/how-to-answer-the-31-most-common-interview-questions
 https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.unmpt6i0t
+http://techcrunch.com/2016/04/30/estimate-thrice-develop-once/
 
 Alternatives with Reviews
 https://www.quora.com/What-are-some-good-alternatives-to-Stripe
@@ -38,12 +44,12 @@ http://www.businessinsider.com/biggest-interview-mistakes-2016-4
 http://www.businessinsider.com/bj-fogg-unconventional-way-to-get-dream-job-2016-3
 
 Reading Material
-(If you need
 http://www.robmiles.com/c-yellow-book/ - The C# yellow book.
 Javascript: the Good Parts
 
 Videos
 https://www.youtube.com/watch?v=QETUuZ27N0w (Angularjs Tutorial for beginners)
+https://www.youtube.com/watch?v=Jh0er2pRcq8 (Something on MEAN Stack)
 
 Project Inspiration
 http://www.ideaswatch.com/startup-ideas/
