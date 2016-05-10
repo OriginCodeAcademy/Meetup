@@ -5,6 +5,12 @@ stackoverflow - When something is stumping you, google it and take a peek at the
 http://builtwith.com/ - All you need to do is enter an url on this site and you'll get to see the building blocks of the site.  (A handy trick is to look a prospective job's website up and familiarize yourself with what they are using.)
 http://alternativeto.net/ - If a specific app or program isn't doing the trick, there's usually someone else who has felt the same way and has made something for that.
 
+Possible Sites to Apply To
+Monster
+LinkedIn
+Indeed
+Dice
+
 Practice
 	Code
 CodeWars - A site for katas and code riddles for practice.  Demands a small code test to join.
