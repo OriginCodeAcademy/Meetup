@@ -1,6 +1,7 @@
 Hello, and welcome to the archive!  This is intended to help keep track of handy links and recommendations provided on Origin's Slack to ensure that useful links such as internet articles, tutorials, and more don't get lost in the flurry of chats, gifs, and unrelated links posted.
 
 Essentials
+http://www.origincodeacademy.com/ - This should be obvious if you're here.
 stackoverflow - When something is stumping you, google it and take a peek at the answers on stackoverflow.  It might give you some insight!
 http://builtwith.com/ - All you need to do is enter an url on this site and you'll get to see the building blocks of the site.  (A handy trick is to look a prospective job's website up and familiarize yourself with what they are using.)
 http://alternativeto.net/ - If a specific app or program isn't doing the trick, there's usually someone else who has felt the same way and has made something for that.
