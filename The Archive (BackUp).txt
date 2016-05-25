@@ -73,6 +73,7 @@ http://www.socal
 
 What NOT to Do
 http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172222-a-second-for-45-minutes
+https://gist.github.com/leobalter/998465
 
 Advanced Material
 http://www.businessinsider.com/bill-gates-loves-donald-knuth-the-art-of-computer-programming-2016-4
