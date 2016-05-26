@@ -22,6 +22,7 @@ https://github.com/csblogs/feed-downloader - A feed that allows you to develop t
 http://sqlzoo.net/ - SQL Exercises, fairly simple.</br>
 http://www.teamtreehouse.com/ - Another site like CodeAcademy, with dozens of tracks to practice on.  Be warned, it only allows for seven days free access, then you have to pay monthly.</br>
 http://www.pluralsight.com/ - A variety of videos and courses are on this site, but again, some you'll have to pay for.</br>
+http://www.upwork.com/ - A site that offers freelance work</br>
 <h4>Interviewing</h4>
 https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.</br>
 gainlo.co - While the link is being fussy, the site has a blog (blog.gainlo.co) that chats about thoughts involving mock interviews, system design questions, and more.</br>
@@ -52,6 +53,7 @@ http://www.amazon.com/AOC-E1649FWU-16-Inch-1366-Monitor/dp/B005SEZR0G  An USB mo
 <h3>Application Advice</h3>
 http://www.businessinsider.com/biggest-interview-mistakes-2016-4</br>
 http://www.businessinsider.com/bj-fogg-unconventional-way-to-get-dream-job-2016-3</br>
+http://blog.hubspot.com/marketing/how-to-write-cover-letter-template#sm.00014wkq5sq4qehh10xfrvjzsk39v </br>
 
 <h3>Reading Material</h3>
 http://www.robmiles.com/c-yellow-book/ - The C# yellow book.</br>
@@ -64,7 +66,6 @@ https://www.youtube.com/watch?v=Jh0er2pRcq8 (Something on MEAN Stack)</br>
 
 <h3>Project Inspiration</h3>
 http://www.ideaswatch.com/startup-ideas/</br>
-http://www.upwork.com/</br>
 
 <h3>San Diego Bias</h3>
 http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-san-diego/</br>
