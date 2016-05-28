@@ -52,7 +52,6 @@ http://www.amazon.com/AOC-E1649FWU-16-Inch-1366-Monitor/dp/B005SEZR0G  An USB mo
 Application Advice
 http://www.businessinsider.com/biggest-interview-mistakes-2016-4
 http://www.businessinsider.com/bj-fogg-unconventional-way-to-get-dream-job-2016-3
-http://blog.hubspot.com/marketing/how-to-write-cover-letter-template#sm.00014wkq5sq4qehh10xfrvjzsk39v
 
 Reading Material
 http://www.robmiles.com/c-yellow-book/ - The C# yellow book.
@@ -65,12 +64,12 @@ https://www.youtube.com/watch?v=Jh0er2pRcq8 (Something on MEAN Stack)
 
 Project Inspiration
 http://www.ideaswatch.com/startup-ideas/
-http://www.upwork.com/ - This is also good for freelance work and practice.
+http://www.upwork.com/
 
 San Diego Bias
 http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-san-diego/
-http://www.1millioncups.com/sandiego - Part of an organization to help startups with networking and meeting others.
-http://www.socalcodecamp.com -  A yearly set of seminars that allow people to learn other code.
+http://www.1millioncups.com/sandiego
+http://www.socalcodecamp.com
 
 What NOT to Do
 http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172222-a-second-for-45-minutes
