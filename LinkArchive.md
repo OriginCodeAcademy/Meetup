@@ -6,6 +6,7 @@ stackoverflow - When something is stumping you, google it and take a peek at the
 http://builtwith.com/ - All you need to do is enter an url on this site and you'll get to see the building blocks of the site.  (A handy trick is to look a prospective job's website up and familiarize yourself with what they are using.)</br>
 http://alternativeto.net/ - If a specific app or program isn't doing the trick, there's usually someone else who has felt the same way and has made something for that.</br>
 http://www.trello.com/ - A scrum site popular with different companies. </br>
+http://www.seleniumhq.org/ - Selenium allows for you to test your code automatically, and spares programmers the need to spend a lot of time debugging things themselves.
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
