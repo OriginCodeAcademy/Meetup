@@ -45,6 +45,7 @@ https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.unmpt6i0t</b
 http://techcrunch.com/2016/04/30/estimate-thrice-develop-once/</br>
 http://www.businessinsider.com/best-job-hunting-tips-from-airbnb-engineer-who-landed-250000-salary-2016-5</br>
 http://blog.triplebyte.com/bootcamps-vs-college</br>
+http://www.makeuseof.com/tag/10-reasons-shouldnt-use-chrome-macbook/</br>
 
 <h3>Alternatives with Reviews</h3>
 https://www.quora.com/What-are-some-good-alternatives-to-Stripe</br>
