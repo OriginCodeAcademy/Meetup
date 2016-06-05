@@ -73,6 +73,7 @@ http://www.ideaswatch.com/startup-ideas/</br>
 http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-san-diego/</br>
 http://www.1millioncups.com/sandiego</br>
 http://www.socalcodecamp.com/</br>
+http://sandiego.geekgirltechcon.com/</br>
 
 <h3>What NOT to Do</h3>
 http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172222-a-second-for-45-minutes</br>
