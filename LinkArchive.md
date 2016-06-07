@@ -7,6 +7,8 @@ http://builtwith.com/ - All you need to do is enter an url on this site and you'
 http://alternativeto.net/ - If a specific app or program isn't doing the trick, there's usually someone else who has felt the same way and has made something for that.</br>
 http://www.trello.com/ - A scrum site popular with different companies. </br>
 http://www.seleniumhq.org/ - Selenium allows for you to test your code automatically, and spares programmers the need to spend a lot of time debugging things themselves.
+<h4>Tools</h4>
+http://ng-inspector.org/ - A browser extension that visualizes angular for you.</br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
@@ -24,6 +26,7 @@ http://sqlzoo.net/ - SQL Exercises, fairly simple.</br>
 http://www.teamtreehouse.com/ - Another site like CodeAcademy, with dozens of tracks to practice on.  Be warned, it only allows for seven days free access, then you have to pay monthly.</br>
 http://www.pluralsight.com/ - A variety of videos and courses are on this site, but again, some you'll have to pay for.</br>
 http://www.upwork.com/ - A site that offers freelance work</br>
+
 <h4>Interviewing</h4>
 https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.</br>
 gainlo.co - While the link is being fussy, the site has a blog (blog.gainlo.co) that chats about thoughts involving mock interviews, system design questions, and more.</br>
