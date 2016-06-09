@@ -9,6 +9,7 @@ http://www.trello.com/ - A scrum site popular with different companies. </br>
 http://www.seleniumhq.org/ - Selenium allows for you to test your code automatically, and spares programmers the need to spend a lot of time debugging things themselves.
 <h4>Tools</h4>
 http://ng-inspector.org/ - A browser extension that visualizes angular for you.</br>
+http://haacked.com/archive/2016/05/11/encourage-atom/ - An Atom (a text editor) extension that gives encouraging messages whenever you save.  </br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
