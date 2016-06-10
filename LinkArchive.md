@@ -6,7 +6,8 @@ stackoverflow - When something is stumping you, google it and take a peek at the
 http://builtwith.com/ - All you need to do is enter an url on this site and you'll get to see the building blocks of the site.  (A handy trick is to look a prospective job's website up and familiarize yourself with what they are using.)</br>
 http://alternativeto.net/ - If a specific app or program isn't doing the trick, there's usually someone else who has felt the same way and has made something for that.</br>
 http://www.trello.com/ - A scrum site popular with different companies. </br>
-http://www.seleniumhq.org/ - Selenium allows for you to test your code automatically, and spares programmers the need to spend a lot of time debugging things themselves.
+http://www.seleniumhq.org/ - Selenium allows for you to test your code automatically, and spares programmers the need to spend a lot of time debugging things themselves.</br>
+http://www.meetup.com/ - Networking is essential for young programmers, both for mentoring and looking for work. </br>
 <h4>Tools</h4>
 http://ng-inspector.org/ - A browser extension that visualizes angular for you.</br>
 http://haacked.com/archive/2016/05/11/encourage-atom/ - An Atom (a text editor) extension that gives encouraging messages whenever you save.  </br>
@@ -79,6 +80,7 @@ http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-sa
 http://www.1millioncups.com/sandiego</br>
 http://www.socalcodecamp.com/</br>
 http://sandiego.geekgirltechcon.com/</br>
+http://sandiegostartupweek.com/ </br>
 
 <h3>What NOT to Do</h3>
 http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172222-a-second-for-45-minutes</br>
