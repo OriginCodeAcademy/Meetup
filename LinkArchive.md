@@ -53,6 +53,7 @@ http://www.businessinsider.com/best-job-hunting-tips-from-airbnb-engineer-who-la
 http://blog.triplebyte.com/bootcamps-vs-college</br>
 http://www.makeuseof.com/tag/10-reasons-shouldnt-use-chrome-macbook/</br>
 http://www.businessinsider.com/linkedin-tips-for-landing-a-job-2016-6 </br>
+http://lifehacker.com/what-a-hiring-manager-is-actually-thinking-during-your-1781906396 - For once, read the comments!  Some are anecdotal stories from hiring managers. </br>
 
 <h3>Alternatives with Reviews</h3>
 https://www.quora.com/What-are-some-good-alternatives-to-Stripe</br>
