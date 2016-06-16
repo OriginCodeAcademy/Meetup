@@ -42,6 +42,7 @@ https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b7
 https://www.w3.org/TR/wai-aria-primer/  Exactly what it says, a primer on ARIA, which helps screen-readers.</br>
 http://www.washington.edu/doit/world-wide-access-accessible-web-design - What is Accessible Web Design, anyway?</br>
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA - Additional Information on ARIA.</br>
+https://github.com/brunopulis/awesome-a11y - A github with a lot of presentations and advice on accessibility! </br>
 
 <h3>Posted Articles</h3>
 https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017#.ks9l19wef</br>
