@@ -70,6 +70,8 @@ http://blog.hubspot.com/marketing/how-to-write-cover-letter-template#sm.00014wkq
 http://www.robmiles.com/c-yellow-book/ - The C# yellow book.</br>
 Javascript: the Good Parts</br>
 Think Like a Programmer</br>
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert C Martin</br>
+The Pragmatic Programmer by Andy Hunt and Dave Thomas</br>
 
 <h3>Videos</h3>
 https://www.youtube.com/watch?v=QETUuZ27N0w (Angularjs Tutorial for beginners)</br>
@@ -80,9 +82,9 @@ http://www.ideaswatch.com/startup-ideas/</br>
 
 <h3>San Diego Bias</h3>
 http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-san-diego/</br>
-http://www.1millioncups.com/sandiego</br>
-http://www.socalcodecamp.com/</br>
-http://sandiego.geekgirltechcon.com/</br>
+http://www.1millioncups.com/sandiego - (Every Wednesday, 9 am)</br>
+http://www.socalcodecamp.com/ - (June 25/26, 2016)</br>
+http://sandiego.geekgirltechcon.com/ - (June 18, 2016)</br>
 http://sandiegostartupweek.com/ </br>
 
 <h3>What NOT to Do</h3>
