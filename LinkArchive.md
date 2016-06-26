@@ -12,6 +12,7 @@ http://www.meetup.com/ - Networking is essential for young programmers, both for
 <h4>Tools</h4>
 http://ng-inspector.org/ - A browser extension that visualizes angular for you.</br>
 http://haacked.com/archive/2016/05/11/encourage-atom/ - An Atom (a text editor) extension that gives encouraging messages whenever you save.  </br>
+http://www.laptopmag.com/laptop-finder - A site that can help track down a laptop to suit your needs.  </br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
@@ -37,6 +38,7 @@ https://www.careercup.com/ - Another site for interview code question practice, 
 
 <h3>Diagrams</h3>
 https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52 - A visual version of alternativeto.net, with some hyperlinks.</br>
+http://michael.hoennig.de/2009/08/08/clean-code-developer-ccd/</br>
 
 <h3>Accessibility and Disability</h3>
 https://www.w3.org/TR/wai-aria-primer/  Exactly what it says, a primer on ARIA, which helps screen-readers.</br>
@@ -93,3 +95,8 @@ https://gist.github.com/leobalter/998465</br>
 
 <h3>Advanced Material</h3>
 http://www.businessinsider.com/bill-gates-loves-donald-knuth-the-art-of-computer-programming-2016-4</br>
+
+<h3>Just For Fun and Games (Descriptions coming)</h3>
+TIS-100</br>
+Human Resource Machine</br>
+Hack Net</br>
