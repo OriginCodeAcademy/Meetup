@@ -13,6 +13,7 @@ http://www.meetup.com/ - Networking is essential for young programmers, both for
 http://ng-inspector.org/ - A browser extension that visualizes angular for you.</br>
 http://haacked.com/archive/2016/05/11/encourage-atom/ - An Atom (a text editor) extension that gives encouraging messages whenever you save.  </br>
 http://www.laptopmag.com/laptop-finder - A site that can help track down a laptop to suit your needs.  </br>
+http://hangfire.io/ - "An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications. No Windows Service required." </br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
