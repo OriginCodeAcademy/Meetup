@@ -13,6 +13,7 @@ http://www.meetup.com/ - Networking is essential for young programmers, both for
 http://ng-inspector.org/ - A browser extension that visualizes angular for you.</br>
 http://haacked.com/archive/2016/05/11/encourage-atom/ - An Atom (a text editor) extension that gives encouraging messages whenever you save.  </br>
 http://www.laptopmag.com/laptop-finder - A site that can help track down a laptop to suit your needs.  </br>
+http://cesardeazevedo.github.io/ng-input/</br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
@@ -35,6 +36,9 @@ http://www.upwork.com/ - A site that offers freelance work</br>
 https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.</br>
 gainlo.co - While the link is being fussy, the site has a blog (blog.gainlo.co) that chats about thoughts involving mock interviews, system design questions, and more.</br>
 https://www.careercup.com/ - Another site for interview code question practice, though in the vein of multiple choice problems.</br>
+
+<h4>Resumes</h4>
+https://www.visualcv.com/</br>
 
 <h3>Diagrams</h3>
 https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52 - A visual version of alternativeto.net, with some hyperlinks.</br>
