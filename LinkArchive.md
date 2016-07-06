@@ -64,6 +64,7 @@ http://www.makeuseof.com/tag/10-reasons-shouldnt-use-chrome-macbook/</br>
 http://www.businessinsider.com/linkedin-tips-for-landing-a-job-2016-6 </br>
 http://lifehacker.com/what-a-hiring-manager-is-actually-thinking-during-your-1781906396 - For once, read the comments!  Some are anecdotal stories from hiring managers. </br>
 http://solutionoptimist.com/2013/12/27/javascript-promise-chains-2/</br>
+http://www.htmlgoodies.com/beyond/javascript/frameworks/ten-ways-to-use-angular-js.html</br>
 
 <h3>Alternatives with Reviews</h3>
 https://www.quora.com/What-are-some-good-alternatives-to-Stripe</br>
