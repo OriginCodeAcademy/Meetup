@@ -53,6 +53,7 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA - Additional Inf
 https://github.com/brunopulis/awesome-a11y - A github with a lot of presentations and advice on accessibility! </br>
 
 <h3>Posted Articles</h3>
+http://appendto.com/2016/07/how-to-grow-as-a-new-software-developer/ - How to help outgrow that feeling of being a fraud.</br>
 https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017#.ks9l19wef</br>
 http://blog.triplebyte.com/how-to-pass-a-programming-interview</br>
 https://www.themuse.com/advice/how-to-answer-the-31-most-common-interview-questions</br>
