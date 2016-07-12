@@ -45,6 +45,7 @@ https://www.visualcv.com/</br>
 <h3>Diagrams</h3>
 https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52 - A visual version of alternativeto.net, with some hyperlinks.</br>
 http://michael.hoennig.de/2009/08/08/clean-code-developer-ccd/</br>
+https://twitter.com/thecrazyprogrmr/status/751406455312441344?s=09</br>
 
 <h3>Accessibility and Disability</h3>
 https://www.w3.org/TR/wai-aria-primer/  Exactly what it says, a primer on ARIA, which helps screen-readers.</br>
@@ -83,6 +84,7 @@ Javascript: the Good Parts</br>
 Think Like a Programmer</br>
 Clean Code: A Handbook of Agile Software Craftsmanship by Robert C Martin</br>
 The Pragmatic Programmer by Andy Hunt and Dave Thomas</br>
+How to Rock Your Technical Interview by David McCarter (dotNet Dave)</br>
 
 <h3>Videos</h3>
 https://www.youtube.com/watch?v=QETUuZ27N0w (Angularjs Tutorial for beginners)</br>
