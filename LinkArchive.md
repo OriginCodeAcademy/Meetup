@@ -103,6 +103,9 @@ http://www.socalcodecamp.com/ - (June 25/26, 2016)</br>
 http://sandiego.geekgirltechcon.com/ - (June 18, 2016)</br>
 http://sandiegostartupweek.com/ </br>
 
+<h3>Origin Stuff</h3>
+https://files.slack.com/files-pri/T0535UKR3-F1RFPTKFC/events.pdf (mostly a Pokemon Go thing and a thing in October.)</br>
+
 <h3>What NOT to Do</h3>
 http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172222-a-second-for-45-minutes</br>
 https://gist.github.com/leobalter/998465</br>
