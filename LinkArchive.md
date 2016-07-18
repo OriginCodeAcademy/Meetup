@@ -15,7 +15,6 @@ http://haacked.com/archive/2016/05/11/encourage-atom/ - An Atom (a text editor) 
 http://www.laptopmag.com/laptop-finder - A site that can help track down a laptop to suit your needs.  </br>
 http://cesardeazevedo.github.io/ng-input/</br>
 http://hangfire.io/ - "An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications. No Windows Service required." </br>
-https://atom.io/packages/activate-power-mode </br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
@@ -108,7 +107,7 @@ https://files.slack.com/files-pri/T0535UKR3-F1RFPTKFC/events.pdf (mostly a Pokem
 
 <h3>What NOT to Do</h3>
 http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172222-a-second-for-45-minutes</br>
-https://gist.github.com/leobalter/998465</br>
+https://gist.github.com/leobalter/998465 - (Well, this is for if you don't want to be mean.) </br>
 
 <h3>Advanced Material</h3>
 http://www.businessinsider.com/bill-gates-loves-donald-knuth-the-art-of-computer-programming-2016-4</br>
@@ -120,3 +119,4 @@ Hack Net</br>
 https://sourceforge.net/projects/fcomm/ - 'basically an "ai programming game" where you got command of a self replica ship that given time could make more of itself, or create little fighters or gunships.'</br>
 http://play.elevatorsaga.com/</br>
 https://www.codingame.com/start </br>
+https://atom.io/packages/activate-power-mode - A cute function for atom that mimicks effects from codeinthedark.</br>
