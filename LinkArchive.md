@@ -21,6 +21,7 @@ Monster</br>
 LinkedIn</br>
 Indeed</br>
 Dice</br>
+Slice</br>
 
 <h3>Practice</h3>
 <h4>Code</h4>
@@ -35,7 +36,7 @@ http://www.upwork.com/ - A site that offers freelance work</br>
 https://pgexercises.com/ - PSQL exercises. </br>
 
 <h4>Interviewing</h4>
-https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.</br>
+https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.  Very expensive.</br>
 gainlo.co - While the link is being fussy, the site has a blog (blog.gainlo.co) that chats about thoughts involving mock interviews, system design questions, and more.</br>
 https://www.careercup.com/ - Another site for interview code question practice, though in the vein of multiple choice problems.</br>
 
