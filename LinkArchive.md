@@ -118,6 +118,7 @@ http://www.businessinsider.com/bill-gates-loves-donald-knuth-the-art-of-computer
 TIS-100</br>
 Human Resource Machine</br>
 Hack Net</br>
+https://alexnisnevich.github.io/untrusted/ - Game based in manipulating javascript.</br>
 https://sourceforge.net/projects/fcomm/ - 'basically an "ai programming game" where you got command of a self replica ship that given time could make more of itself, or create little fighters or gunships.'</br>
 http://play.elevatorsaga.com/</br>
 https://www.codingame.com/start </br>
