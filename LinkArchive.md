@@ -16,6 +16,7 @@ http://www.laptopmag.com/laptop-finder - A site that can help track down a lapto
 http://cesardeazevedo.github.io/ng-input/</br>
 http://hangfire.io/ - "An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications. No Windows Service required." </br>
 http://app.mhb.io/e/1me8g/7d</br>
+https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd?hl=en</br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
