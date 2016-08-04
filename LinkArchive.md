@@ -73,6 +73,7 @@ http://solutionoptimist.com/2013/12/27/javascript-promise-chains-2/</br>
 http://www.htmlgoodies.com/beyond/javascript/frameworks/ten-ways-to-use-angular-js.html</br>
 http://sobit.me/2016/07/08/amazon-software-engineer-interview/</br>
 http://www.wired.com/2015/10/margaret-hamilton-nasa-apollo/?mbid=social_twitter - A piece about the woman who got people on the moon.  </br>
+http://willowtreeapps.com/blog/xamarin-or-native-development-tools-for-ios-android-projects/</br>
 
 <h3>Alternatives with Reviews</h3>
 https://www.quora.com/What-are-some-good-alternatives-to-Stripe</br>
