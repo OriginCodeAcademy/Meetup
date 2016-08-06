@@ -99,6 +99,7 @@ https://www.youtube.com/watch?v=Jh0er2pRcq8 (Something on MEAN Stack)</br>
 
 <h3>Project Inspiration</h3>
 http://www.ideaswatch.com/startup-ideas/</br>
+https://flare.godaddy.com/ </br>
 
 <h3>San Diego Bias</h3>
 http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-san-diego/</br>
