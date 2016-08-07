@@ -36,6 +36,7 @@ http://www.teamtreehouse.com/ - Another site like CodeAcademy, with dozens of tr
 http://www.pluralsight.com/ - A variety of videos and courses are on this site, but again, some you'll have to pay for.</br>
 http://www.upwork.com/ - A site that offers freelance work</br>
 https://pgexercises.com/ - PSQL exercises. </br>
+http://reddit.com/r/dailyprogrammer </br>
 
 <h4>Interviewing</h4>
 https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.  Very expensive.</br>
