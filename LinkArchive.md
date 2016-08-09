@@ -28,7 +28,7 @@ Slice</br>
 
 <h3>Practice</h3>
 <h4>Code</h4>
-CodeWars - A site for katas and code riddles for practice.  Demands a small code test to join.</br>
+CodeWars - A site for katas and code riddles for practice.  Requires a small code test to join.</br>
 Exercism - Another site for coding practice, using GitHub to authenicite.  It provides tests, and you must build your program to pass those code tests.</br>
 https://github.com/karan/Projects - A very big list of different code projects, mostly numbers.</br>
 https://github.com/csblogs/feed-downloader - A feed that allows you to develop things.  But more importantly, it encourages best practices for github itself.</br>
@@ -106,8 +106,8 @@ https://flare.godaddy.com/ </br>
 <h3>San Diego Bias</h3>
 http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-san-diego/</br>
 http://www.1millioncups.com/sandiego - (Every Wednesday, 9 am)</br>
-http://www.socalcodecamp.com/ - (June 25/26, 2016)</br>
-http://sandiego.geekgirltechcon.com/ - (June 18, 2016)</br>
+http://www.socalcodecamp.com/ - Passed for 2016</br>
+http://sandiego.geekgirltechcon.com/ - Passed for 2016</br>
 http://sandiegostartupweek.com/ </br>
 
 <h3>Origin Stuff</h3>
@@ -122,7 +122,7 @@ http://www.businessinsider.com/bill-gates-loves-donald-knuth-the-art-of-computer
 
 <h3>Just For Fun and Games (Descriptions coming)</h3>
 TIS-100</br>
-Human Resource Machine</br>
+Human Resource Machine - A simple and cute game giving an example of programming and how to step though processes, set in a goofy officespace.</br>
 Hack Net</br>
 https://alexnisnevich.github.io/untrusted/ - Game based in manipulating javascript.</br>
 https://sourceforge.net/projects/fcomm/ - 'basically an "ai programming game" where you got command of a self replica ship that given time could make more of itself, or create little fighters or gunships.'</br>
