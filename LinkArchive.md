@@ -78,7 +78,7 @@ http://www.wired.com/2015/10/margaret-hamilton-nasa-apollo/?mbid=social_twitter 
 http://willowtreeapps.com/blog/xamarin-or-native-development-tools-for-ios-android-projects/</br>
 
 <h3>Alternatives with Reviews</h3>
-https://www.quora.com/What-are-some-good-alternatives-to-Stripe</br>
+https://www.quora.com/What-are-some-good-alternatives-to-Stripe - Potential options if one doesn't want to use the payment server Stripe.</br>
 http://thejackalofjavascript.com/nodejs-restify-mongolab-build-rest-api/</br>
 http://www.amazon.com/AOC-E1649FWU-16-Inch-1366-Monitor/dp/B005SEZR0G  An USB monitor that is often popular with a lot of the students.</br>
 
@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=QETUuZ27N0w (Angularjs Tutorial for beginners)</
 https://www.youtube.com/watch?v=Jh0er2pRcq8 (Something on MEAN Stack)</br>
 
 <h3>Project Inspiration</h3>
-http://www.ideaswatch.com/startup-ideas/</br>
+http://www.ideaswatch.com/startup-ideas/ -  A site full of different ideas for start-ups, useful for ideas for final projects.</br>
 https://flare.godaddy.com/ </br>
 
 <h3>San Diego Bias</h3>
