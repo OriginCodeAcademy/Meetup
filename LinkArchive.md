@@ -122,8 +122,8 @@ http://www.businessinsider.com/bill-gates-loves-donald-knuth-the-art-of-computer
 
 <h3>Just For Fun and Games (Descriptions coming)</h3>
 TIS-100</br>
-Human Resource Machine - A simple and cute game giving an example of programming and how to step though processes, set in a goofy officespace.</br>
-Hack Net</br>
+Human Resource Machine - A cute game giving an example of programming and how to step though processes, set in a goofy officespace.</br>
+Hack Net - A hacking simulator that also brings up the implications of easy hacking.</br>
 https://alexnisnevich.github.io/untrusted/ - Game based in manipulating javascript.</br>
 https://sourceforge.net/projects/fcomm/ - 'basically an "ai programming game" where you got command of a self replica ship that given time could make more of itself, or create little fighters or gunships.'</br>
 http://play.elevatorsaga.com/</br>
