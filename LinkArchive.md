@@ -76,6 +76,7 @@ http://www.htmlgoodies.com/beyond/javascript/frameworks/ten-ways-to-use-angular-
 http://sobit.me/2016/07/08/amazon-software-engineer-interview/</br>
 http://www.wired.com/2015/10/margaret-hamilton-nasa-apollo/?mbid=social_twitter - A piece about the woman who got people on the moon.  </br>
 http://willowtreeapps.com/blog/xamarin-or-native-development-tools-for-ios-android-projects/</br>
+https://code.msdn.microsoft.com/How-to-insert-image-into-93964561#content</br>
 
 <h3>Alternatives with Reviews</h3>
 https://www.quora.com/What-are-some-good-alternatives-to-Stripe - Potential options if one doesn't want to use the payment server Stripe.</br>
