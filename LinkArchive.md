@@ -38,6 +38,7 @@ http://www.pluralsight.com/ - A variety of videos and courses are on this site, 
 http://www.upwork.com/ - A site that offers freelance work</br>
 https://pgexercises.com/ - PSQL exercises. </br>
 http://reddit.com/r/dailyprogrammer </br>
+http://www.billthelizard.com/2009/06/programming-and-logic-puzzles.html</br>
 
 <h4>Interviewing</h4>
 https://www.interviewcake.com/ - A paid site that provides interview questions asked by Google, Amazon, and Facebook, providing advice and tricks for programming interviews.  Very expensive.</br>
