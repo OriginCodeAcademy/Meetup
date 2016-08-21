@@ -18,6 +18,7 @@ http://hangfire.io/ - "An easy way to perform fire-and-forget, delayed and recur
 http://app.mhb.io/e/1me8g/7d</br>
 https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd?hl=en</br>
 https://www.amazon.com/Mighty-Mug-1900-Solo-Black/dp/B019450632/ref=sr_1_2?s=kitchen&ie=UTF8&qid=1470431030&sr=1-2&keywords=mighty+mug - as suggested for those who drink coffee and would prefer not to spill stuff.  </br>
+https://www.npmjs.com/package/angular-youtube-api-factory</br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
