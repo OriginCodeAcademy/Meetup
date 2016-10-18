@@ -80,6 +80,7 @@ http://www.wired.com/2015/10/margaret-hamilton-nasa-apollo/?mbid=social_twitter 
 http://willowtreeapps.com/blog/xamarin-or-native-development-tools-for-ios-android-projects/</br>
 https://code.msdn.microsoft.com/How-to-insert-image-into-93964561#content</br>
 http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/ </br>
+https://certsimple.com/blog/deploy-node-on-linux#install-linux </br>
 
 <h3>Alternatives with Reviews</h3>
 https://www.quora.com/What-are-some-good-alternatives-to-Stripe - Potential options if one doesn't want to use the payment server Stripe.</br>
