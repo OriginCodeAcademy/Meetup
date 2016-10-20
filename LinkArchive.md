@@ -38,7 +38,7 @@ http://www.teamtreehouse.com/ - Another site like CodeAcademy, with dozens of tr
 http://www.pluralsight.com/ - A variety of videos and courses are on this site, but again, some you'll have to pay for.</br>
 http://www.upwork.com/ - A site that offers freelance work</br>
 https://pgexercises.com/ - PSQL exercises. </br>
-http://reddit.com/r/dailyprogrammer </br>
+http://reddit.com/r/dailyprogrammer - A subreddit with little projects</br>
 http://www.billthelizard.com/2009/06/programming-and-logic-puzzles.html</br>
 
 <h4>Interviewing</h4>
