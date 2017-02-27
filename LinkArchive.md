@@ -19,6 +19,7 @@ http://app.mhb.io/e/1me8g/7d</br>
 https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd?hl=en</br>
 https://www.amazon.com/Mighty-Mug-1900-Solo-Black/dp/B019450632/ref=sr_1_2?s=kitchen&ie=UTF8&qid=1470431030&sr=1-2&keywords=mighty+mug - as suggested for those who drink coffee and would prefer not to spill stuff.  </br>
 https://www.npmjs.com/package/angular-youtube-api-factory</br>
+https://github.com/github/gitignore/blob/master/VisualStudio.gitignore - Example gitignore for Visual Studio to reduce how much you upload to github.</br>
 
 <h3>Possible Sites to Apply To</h3>
 Monster</br>
@@ -111,9 +112,9 @@ https://flare.godaddy.com/ </br>
 <h3>San Diego Bias</h3>
 http://techcrunch.com/2016/03/29/why-i-moved-my-startup-from-san-francisco-to-san-diego/</br>
 http://www.1millioncups.com/sandiego - (Every Wednesday, 9 am)</br>
-http://www.socalcodecamp.com/ - Passed for 2016</br>
+http://www.socalcodecamp.com/ - June 17th, 2017</br>
 http://sandiego.geekgirltechcon.com/ - Passed for 2016</br>
-http://sandiegostartupweek.com/ </br>
+http://sandiegostartupweek.com/ - June 19-23, 2017</br>
 
 <h3>Origin Stuff</h3>
 https://files.slack.com/files-pri/T0535UKR3-F1RFPTKFC/events.pdf (mostly a Pokemon Go thing and a thing in October.)</br>
@@ -127,7 +128,7 @@ http://www.businessinsider.com/bill-gates-loves-donald-knuth-the-art-of-computer
 
 <h3>Just For Fun and Games (Descriptions coming)</h3>
 TIS-100</br>
-Human Resource Machine - A cute game giving an example of programming and how to step though processes, set in a goofy officespace.</br>
+Human Resource Machine - A cute game giving an example of programming and how to step though logic processes, set in a goofy officespace.</br>
 Hack Net - A hacking simulator that also brings up the implications of easy hacking.</br>
 https://alexnisnevich.github.io/untrusted/ - Game based in manipulating javascript.</br>
 https://sourceforge.net/projects/fcomm/ - 'basically an "ai programming game" where you got command of a self replica ship that given time could make more of itself, or create little fighters or gunships.'</br>
