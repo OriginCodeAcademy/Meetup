@@ -87,6 +87,7 @@ https://certsimple.com/blog/deploy-node-on-linux#install-linux </br>
 https://www.quora.com/What-are-some-good-alternatives-to-Stripe - Potential options if one doesn't want to use the payment server Stripe.</br>
 http://thejackalofjavascript.com/nodejs-restify-mongolab-build-rest-api/</br>
 http://www.amazon.com/AOC-E1649FWU-16-Inch-1366-Monitor/dp/B005SEZR0G  An USB monitor that is often popular with a lot of the students.</br>
+http://blog.krawaller.se/posts/a-react-redux-firebase-app-with-authentication/ </br>
 
 <h3>Application Advice</h3>
 http://www.businessinsider.com/biggest-interview-mistakes-2016-4</br>
