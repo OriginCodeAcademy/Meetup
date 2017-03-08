@@ -137,3 +137,4 @@ http://play.elevatorsaga.com/</br>
 https://www.codingame.com/start </br>
 https://atom.io/packages/activate-power-mode - A cute function for atom that mimicks effects from codeinthedark.</br>
 http://hipsum.co/ - Something a little different for your filler.</br>
+https://github.com/willemlarsen/mobprogrammingrpg - An Apocalypse World hack with the intent to help teach the concepts behind Mob Programming. </br>
